@@ -34,14 +34,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "pes_baskervillsky_split_000.md",
             "xhtml": "pes_baskervillsky_split_000.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -51,9 +52,9 @@
             "filename": "pes_baskervillsky_split_001.md",
             "xhtml": "pes_baskervillsky_split_001.html",
             "id": 1,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -69,7 +70,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "I. MR. SHERLOCK HOLMES."
           },
           {
             "filename": "pes_baskervillsky_split_004.md",
@@ -81,7 +83,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "II. KLETBA BASKERVILLŮ."
           },
           {
             "filename": "pes_baskervillsky_split_005.md",
@@ -93,7 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "III. PROBLÉM."
           },
           {
             "filename": "pes_baskervillsky_split_006.md",
@@ -105,7 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "IV. SIR JINDŘICH BASKERVILLE."
           },
           {
             "filename": "pes_baskervillsky_split_007.md",
@@ -117,7 +122,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "V. TŘI PŘETRŽENÉ NITKY."
           },
           {
             "filename": "pes_baskervillsky_split_008.md",
@@ -129,7 +135,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "VI. NA BASKERVILLSKÉM ZÁMKU."
           },
           {
             "filename": "pes_baskervillsky_split_009.md",
@@ -141,7 +148,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "VII. STAPLETONOVI Z MERRIPITSKÉHO DVORCE."
           },
           {
             "filename": "pes_baskervillsky_split_010.md",
@@ -153,7 +161,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "VIII. PRVNÍ ZPRÁVA DOKTORA WATSONA."
           },
           {
             "filename": "pes_baskervillsky_split_011.md",
@@ -165,7 +174,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "IX. DRUHÁ ZPRÁVA DOKTORA WATSONA."
           },
           {
             "filename": "pes_baskervillsky_split_012.md",
@@ -177,7 +187,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "X. VÝŇATEK Z DENNÍKU DOKTORA WATSONA."
           },
           {
             "filename": "pes_baskervillsky_split_013.md",
@@ -189,7 +200,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XI. MUŽ S ÚTESU SKALNÍHO."
           },
           {
             "filename": "pes_baskervillsky_split_014.md",
@@ -201,7 +213,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XII. SMRT NA MOČÁLE."
           },
           {
             "filename": "pes_baskervillsky_split_015.md",
@@ -213,7 +226,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XIII. SÍTĚ SE ZATAHUJÍ."
           },
           {
             "filename": "pes_baskervillsky_split_016.md",
@@ -225,7 +239,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XIV. PES BASKERVILLSKÝ."
           },
           {
             "filename": "pes_baskervillsky_split_017.md",
@@ -237,15 +252,16 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XV. POHLED NAZPĚT."
           },
           {
             "filename": "pes_baskervillsky_split_018.md",
             "xhtml": "pes_baskervillsky_split_018.html",
             "id": 17,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -262,7 +278,7 @@
       "identifier": "a1104cc5-11fb-4add-bf95-6a05626ed712",
       "author": "Arthur Conan Doyle",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-09T08:22:27.606Z"
+      "modified": "2022-03-09T08:32:01.158Z"
     },
     "chapters": [
       {
@@ -278,91 +294,91 @@
         "xhtml": "pes_baskervillsky_split_001.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "I. MR. SHERLOCK HOLMES.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_003.md",
         "xhtml": "pes_baskervillsky_split_003.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II. KLETBA BASKERVILLŮ.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_004.md",
         "xhtml": "pes_baskervillsky_split_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III. PROBLÉM.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_005.md",
         "xhtml": "pes_baskervillsky_split_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IV. SIR JINDŘICH BASKERVILLE.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_006.md",
         "xhtml": "pes_baskervillsky_split_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V. TŘI PŘETRŽENÉ NITKY.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_007.md",
         "xhtml": "pes_baskervillsky_split_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VI. NA BASKERVILLSKÉM ZÁMKU.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_008.md",
         "xhtml": "pes_baskervillsky_split_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VII. STAPLETONOVI Z MERRIPITSKÉHO DVORCE.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_009.md",
         "xhtml": "pes_baskervillsky_split_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VIII. PRVNÍ ZPRÁVA DOKTORA WATSONA.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_010.md",
         "xhtml": "pes_baskervillsky_split_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IX. DRUHÁ ZPRÁVA DOKTORA WATSONA.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_011.md",
         "xhtml": "pes_baskervillsky_split_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "X. VÝŇATEK Z DENNÍKU DOKTORA WATSONA.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_012.md",
         "xhtml": "pes_baskervillsky_split_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XI. MUŽ S ÚTESU SKALNÍHO.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_013.md",
         "xhtml": "pes_baskervillsky_split_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XII. SMRT NA MOČÁLE.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_014.md",
         "xhtml": "pes_baskervillsky_split_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIII. SÍTĚ SE ZATAHUJÍ.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_015.md",
         "xhtml": "pes_baskervillsky_split_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIV. PES BASKERVILLSKÝ.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_016.md",
         "xhtml": "pes_baskervillsky_split_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XV. POHLED NAZPĚT.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_017.md",
         "xhtml": "pes_baskervillsky_split_017.html"
@@ -430,6 +446,6 @@
       "user": "books-are-next",
       "repo": "pes-baskervillsky"
     },
-    "generatedAt": 1646814148878
+    "generatedAt": 1646814722282
   }
 }
