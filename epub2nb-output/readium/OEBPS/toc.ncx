@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ces">
+  <head>
+    <meta content="a1104cc5-11fb-4add-bf95-6a05626ed712" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.36)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Pes Baskervillský</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="7af55d65-a20e-4daa-be7e-a201883ed2f0" playOrder="1">
+      <navLabel>
+        <text>I. MR. SHERLOCK HOLMES.</text>
+      </navLabel>
+      <content src="Text/pes_baskervillsky_split_003.html"/>
+    </navPoint>
+    <navPoint id="a12c4c8f-55ee-407a-9a6b-8e37aa1e1460" playOrder="2">
+      <navLabel>
+        <text>II. KLETBA BASKERVILLŮ.</text>
+      </navLabel>
+      <content src="Text/pes_baskervillsky_split_004.html"/>
+    </navPoint>
+    <navPoint id="01bb9923-bb91-4694-8929-a3c561ebd25b" playOrder="3">
+      <navLabel>
+        <text>III. PROBLÉM.</text>
+      </navLabel>
+      <content src="Text/pes_baskervillsky_split_005.html"/>
+    </navPoint>
+    <navPoint id="1127b3e5-e3b6-43d3-8840-b67b6cd4519e" playOrder="4">
+      <navLabel>
+        <text>IV. SIR JINDŘICH BASKERVILLE.</text>
+      </navLabel>
+      <content src="Text/pes_baskervillsky_split_006.html"/>
+    </navPoint>
+    <navPoint id="6dc145dd-5836-4200-9ad1-b05d14d6d2b4" playOrder="5">
+      <navLabel>
+        <text>V. TŘI PŘETRŽENÉ NITKY.</text>
+      </navLabel>
+      <content src="Text/pes_baskervillsky_split_007.html"/>
+    </navPoint>
+    <navPoint id="22cc0e29-2190-45b6-9f33-2e63eae3a5ec" playOrder="6">
+      <navLabel>
+        <text>VI. NA BASKERVILLSKÉM ZÁMKU.</text>
+      </navLabel>
+      <content src="Text/pes_baskervillsky_split_008.html"/>
+    </navPoint>
+    <navPoint id="d415f7e9-aec8-4ea6-b646-52ef5b36c6d1" playOrder="7">
+      <navLabel>
+        <text>VII. STAPLETONOVI Z MERRIPITSKÉHO DVORCE.</text>
+      </navLabel>
+      <content src="Text/pes_baskervillsky_split_009.html"/>
+    </navPoint>
+    <navPoint id="cdccedaa-17bc-4e8f-812b-f07fd4ac4ce7" playOrder="8">
+      <navLabel>
+        <text>VIII. PRVNÍ ZPRÁVA DOKTORA WATSONA.</text>
+      </navLabel>
+      <content src="Text/pes_baskervillsky_split_010.html"/>
+    </navPoint>
+    <navPoint id="7e2b6cd3-ac79-4948-93e7-560f26a1d268" playOrder="9">
+      <navLabel>
+        <text>IX. DRUHÁ ZPRÁVA DOKTORA WATSONA.</text>
+      </navLabel>
+      <content src="Text/pes_baskervillsky_split_011.html"/>
+    </navPoint>
+    <navPoint id="ba718e9b-4774-4b73-86fd-c0e2829b2acd" playOrder="10">
+      <navLabel>
+        <text>X. VÝŇATEK Z DENNÍKU DOKTORA WATSONA.</text>
+      </navLabel>
+      <content src="Text/pes_baskervillsky_split_012.html"/>
+    </navPoint>
+    <navPoint id="a05fb677-10e4-4cd7-8050-793786f1bab5" playOrder="11">
+      <navLabel>
+        <text>XI. MUŽ S ÚTESU SKALNÍHO.</text>
+      </navLabel>
+      <content src="Text/pes_baskervillsky_split_013.html"/>
+    </navPoint>
+    <navPoint id="14ef156f-6ad0-4b1f-8fe2-b155fbab3866" playOrder="12">
+      <navLabel>
+        <text>XII. SMRT NA MOČÁLE.</text>
+      </navLabel>
+      <content src="Text/pes_baskervillsky_split_014.html"/>
+    </navPoint>
+    <navPoint id="8c3e53dc-e100-4f48-84aa-43f6a354864f" playOrder="13">
+      <navLabel>
+        <text>XIII. SÍTĚ SE ZATAHUJÍ.</text>
+      </navLabel>
+      <content src="Text/pes_baskervillsky_split_015.html"/>
+    </navPoint>
+    <navPoint id="fdcc0496-d24f-4dcf-8e6d-3f0769c61b43" playOrder="14">
+      <navLabel>
+        <text>XIV. PES BASKERVILLSKÝ.</text>
+      </navLabel>
+      <content src="Text/pes_baskervillsky_split_016.html"/>
+    </navPoint>
+    <navPoint id="5eefa474-cb1a-4eab-a8cc-bbab5b531f55" playOrder="15">
+      <navLabel>
+        <text>XV. POHLED NAZPĚT.</text>
+      </navLabel>
+      <content src="Text/pes_baskervillsky_split_017.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
