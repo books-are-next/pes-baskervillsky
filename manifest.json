@@ -2,58 +2,18 @@
   "author": "Arthur Conan Doyle",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "doyle-pes-baskervillsky-77fc9cb",
+  "identifier": "doyle-pes-baskervillsky-2ad2388",
   "languagecode": "cs",
   "modified": "2022-03-09T08:22:27.606Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Pes baskervillský",
-  "revision": "77fc9cb",
+  "revision": "2ad2388",
   "generatedAt": {
-    "date": "Wed Mar 09 2022 08:33:02 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1646814782266
+    "date": "Wed Mar 09 2022 08:41:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1646815305916
   },
   "documents": [
-    {
-      "title": "Pes baskervillský",
-      "file": "pes_baskervillsky_split_000.html",
-      "words": 2,
-      "chars": 0,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "pes_baskervillsky_split_001.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Pes baskervillský",
-      "file": "pes_baskervillsky_split_001.html",
-      "words": 139,
-      "chars": 1011,
-      "ideas": 10,
-      "role": "chapter",
-      "order": 1,
-      "prev": "pes_baskervillsky_split_000.html",
-      "next": "pes_baskervillsky_split_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "I. MR. SHERLOCK HOLMES. • Pes baskervillský",
       "file": "pes_baskervillsky_split_003.html",
@@ -61,8 +21,8 @@
       "chars": 12487,
       "ideas": 76,
       "role": "chapter",
-      "order": 2,
-      "prev": "pes_baskervillsky_split_001.html",
+      "order": 0,
+      "prev": null,
       "next": "pes_baskervillsky_split_004.html",
       "toc": [
         {
@@ -81,7 +41,7 @@
       "chars": 20325,
       "ideas": 67,
       "role": "chapter",
-      "order": 3,
+      "order": 1,
       "prev": "pes_baskervillsky_split_003.html",
       "next": "pes_baskervillsky_split_005.html",
       "toc": [
@@ -101,7 +61,7 @@
       "chars": 15606,
       "ideas": 138,
       "role": "chapter",
-      "order": 4,
+      "order": 2,
       "prev": "pes_baskervillsky_split_004.html",
       "next": "pes_baskervillsky_split_006.html",
       "toc": [
@@ -121,7 +81,7 @@
       "chars": 21651,
       "ideas": 145,
       "role": "chapter",
-      "order": 5,
+      "order": 3,
       "prev": "pes_baskervillsky_split_005.html",
       "next": "pes_baskervillsky_split_007.html",
       "toc": [
@@ -141,7 +101,7 @@
       "chars": 17814,
       "ideas": 154,
       "role": "chapter",
-      "order": 6,
+      "order": 4,
       "prev": "pes_baskervillsky_split_006.html",
       "next": "pes_baskervillsky_split_008.html",
       "toc": [
@@ -161,7 +121,7 @@
       "chars": 18423,
       "ideas": 112,
       "role": "chapter",
-      "order": 7,
+      "order": 5,
       "prev": "pes_baskervillsky_split_007.html",
       "next": "pes_baskervillsky_split_009.html",
       "toc": [
@@ -181,7 +141,7 @@
       "chars": 26211,
       "ideas": 185,
       "role": "chapter",
-      "order": 8,
+      "order": 6,
       "prev": "pes_baskervillsky_split_008.html",
       "next": "pes_baskervillsky_split_010.html",
       "toc": [
@@ -201,7 +161,7 @@
       "chars": 14386,
       "ideas": 65,
       "role": "chapter",
-      "order": 9,
+      "order": 7,
       "prev": "pes_baskervillsky_split_009.html",
       "next": "pes_baskervillsky_split_011.html",
       "toc": [
@@ -221,7 +181,7 @@
       "chars": 33586,
       "ideas": 221,
       "role": "chapter",
-      "order": 10,
+      "order": 8,
       "prev": "pes_baskervillsky_split_010.html",
       "next": "pes_baskervillsky_split_012.html",
       "toc": [
@@ -241,7 +201,7 @@
       "chars": 19047,
       "ideas": 126,
       "role": "chapter",
-      "order": 11,
+      "order": 9,
       "prev": "pes_baskervillsky_split_011.html",
       "next": "pes_baskervillsky_split_013.html",
       "toc": [
@@ -261,7 +221,7 @@
       "chars": 24225,
       "ideas": 180,
       "role": "chapter",
-      "order": 12,
+      "order": 10,
       "prev": "pes_baskervillsky_split_012.html",
       "next": "pes_baskervillsky_split_014.html",
       "toc": [
@@ -281,7 +241,7 @@
       "chars": 26225,
       "ideas": 199,
       "role": "chapter",
-      "order": 13,
+      "order": 11,
       "prev": "pes_baskervillsky_split_013.html",
       "next": "pes_baskervillsky_split_015.html",
       "toc": [
@@ -301,7 +261,7 @@
       "chars": 17931,
       "ideas": 146,
       "role": "chapter",
-      "order": 14,
+      "order": 12,
       "prev": "pes_baskervillsky_split_014.html",
       "next": "pes_baskervillsky_split_016.html",
       "toc": [
@@ -321,7 +281,7 @@
       "chars": 22270,
       "ideas": 181,
       "role": "chapter",
-      "order": 15,
+      "order": 13,
       "prev": "pes_baskervillsky_split_015.html",
       "next": "pes_baskervillsky_split_017.html",
       "toc": [
@@ -341,9 +301,9 @@
       "chars": 21549,
       "ideas": 82,
       "role": "chapter",
-      "order": 16,
+      "order": 14,
       "prev": "pes_baskervillsky_split_016.html",
-      "next": "pes_baskervillsky_split_018.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -355,20 +315,20 @@
       ]
     },
     {
-      "title": "Pes baskervillský",
-      "file": "pes_baskervillsky_split_018.html",
-      "words": 30,
-      "chars": 164,
-      "ideas": 6,
-      "role": "chapter",
-      "order": 17,
+      "title": "Tiráž • Pes baskervillský",
+      "file": "colophon.html",
+      "words": 170,
+      "chars": 1180,
+      "ideas": 17,
+      "role": "colophon",
+      "order": null,
       "prev": "pes_baskervillsky_split_017.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -377,14 +337,14 @@
   ],
   "totals": {
     "all": {
-      "words": 51854,
+      "words": 51852,
       "chars": 312962,
-      "ideas": 2100
+      "ideas": 2098
     },
     "chapters": {
-      "words": 51846,
-      "chars": 312911,
-      "ideas": 2095
+      "words": 51675,
+      "chars": 311736,
+      "ideas": 2077
     }
   }
 }
