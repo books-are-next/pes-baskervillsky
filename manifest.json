@@ -1,0 +1,390 @@
+{
+  "author": "Arthur Conan Doyle",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "doyle-pes-baskervillsky-77fc9cb",
+  "languagecode": "cs",
+  "modified": "2022-03-09T08:22:27.606Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Pes baskervillský",
+  "revision": "77fc9cb",
+  "generatedAt": {
+    "date": "Wed Mar 09 2022 08:33:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1646814782266
+  },
+  "documents": [
+    {
+      "title": "Pes baskervillský",
+      "file": "pes_baskervillsky_split_000.html",
+      "words": 2,
+      "chars": 0,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "pes_baskervillsky_split_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pes baskervillský",
+      "file": "pes_baskervillsky_split_001.html",
+      "words": 139,
+      "chars": 1011,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 1,
+      "prev": "pes_baskervillsky_split_000.html",
+      "next": "pes_baskervillsky_split_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I. MR. SHERLOCK HOLMES. • Pes baskervillský",
+      "file": "pes_baskervillsky_split_003.html",
+      "words": 2009,
+      "chars": 12487,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 2,
+      "prev": "pes_baskervillsky_split_001.html",
+      "next": "pes_baskervillsky_split_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I. MR. SHERLOCK HOLMES.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II. KLETBA BASKERVILLŮ. • Pes baskervillský",
+      "file": "pes_baskervillsky_split_004.html",
+      "words": 3331,
+      "chars": 20325,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 3,
+      "prev": "pes_baskervillsky_split_003.html",
+      "next": "pes_baskervillsky_split_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II. KLETBA BASKERVILLŮ.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III. PROBLÉM. • Pes baskervillský",
+      "file": "pes_baskervillsky_split_005.html",
+      "words": 2577,
+      "chars": 15606,
+      "ideas": 138,
+      "role": "chapter",
+      "order": 4,
+      "prev": "pes_baskervillsky_split_004.html",
+      "next": "pes_baskervillsky_split_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III. PROBLÉM.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV. SIR JINDŘICH BASKERVILLE. • Pes baskervillský",
+      "file": "pes_baskervillsky_split_006.html",
+      "words": 3530,
+      "chars": 21651,
+      "ideas": 145,
+      "role": "chapter",
+      "order": 5,
+      "prev": "pes_baskervillsky_split_005.html",
+      "next": "pes_baskervillsky_split_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV. SIR JINDŘICH BASKERVILLE.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V. TŘI PŘETRŽENÉ NITKY. • Pes baskervillský",
+      "file": "pes_baskervillsky_split_007.html",
+      "words": 2938,
+      "chars": 17814,
+      "ideas": 154,
+      "role": "chapter",
+      "order": 6,
+      "prev": "pes_baskervillsky_split_006.html",
+      "next": "pes_baskervillsky_split_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V. TŘI PŘETRŽENÉ NITKY.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI. NA BASKERVILLSKÉM ZÁMKU. • Pes baskervillský",
+      "file": "pes_baskervillsky_split_008.html",
+      "words": 2991,
+      "chars": 18423,
+      "ideas": 112,
+      "role": "chapter",
+      "order": 7,
+      "prev": "pes_baskervillsky_split_007.html",
+      "next": "pes_baskervillsky_split_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI. NA BASKERVILLSKÉM ZÁMKU.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII. STAPLETONOVI Z MERRIPITSKÉHO DVORCE. • Pes baskervillský",
+      "file": "pes_baskervillsky_split_009.html",
+      "words": 4341,
+      "chars": 26211,
+      "ideas": 185,
+      "role": "chapter",
+      "order": 8,
+      "prev": "pes_baskervillsky_split_008.html",
+      "next": "pes_baskervillsky_split_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII. STAPLETONOVI Z MERRIPITSKÉHO DVORCE.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII. PRVNÍ ZPRÁVA DOKTORA WATSONA. • Pes baskervillský",
+      "file": "pes_baskervillsky_split_010.html",
+      "words": 2394,
+      "chars": 14386,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 9,
+      "prev": "pes_baskervillsky_split_009.html",
+      "next": "pes_baskervillsky_split_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII. PRVNÍ ZPRÁVA DOKTORA WATSONA.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX. DRUHÁ ZPRÁVA DOKTORA WATSONA. • Pes baskervillský",
+      "file": "pes_baskervillsky_split_011.html",
+      "words": 5726,
+      "chars": 33586,
+      "ideas": 221,
+      "role": "chapter",
+      "order": 10,
+      "prev": "pes_baskervillsky_split_010.html",
+      "next": "pes_baskervillsky_split_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX. DRUHÁ ZPRÁVA DOKTORA WATSONA.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X. VÝŇATEK Z DENNÍKU DOKTORA WATSONA. • Pes baskervillský",
+      "file": "pes_baskervillsky_split_012.html",
+      "words": 3224,
+      "chars": 19047,
+      "ideas": 126,
+      "role": "chapter",
+      "order": 11,
+      "prev": "pes_baskervillsky_split_011.html",
+      "next": "pes_baskervillsky_split_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X. VÝŇATEK Z DENNÍKU DOKTORA WATSONA.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI. MUŽ S ÚTESU SKALNÍHO. • Pes baskervillský",
+      "file": "pes_baskervillsky_split_013.html",
+      "words": 4033,
+      "chars": 24225,
+      "ideas": 180,
+      "role": "chapter",
+      "order": 12,
+      "prev": "pes_baskervillsky_split_012.html",
+      "next": "pes_baskervillsky_split_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI. MUŽ S ÚTESU SKALNÍHO.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII. SMRT NA MOČÁLE. • Pes baskervillský",
+      "file": "pes_baskervillsky_split_014.html",
+      "words": 4406,
+      "chars": 26225,
+      "ideas": 199,
+      "role": "chapter",
+      "order": 13,
+      "prev": "pes_baskervillsky_split_013.html",
+      "next": "pes_baskervillsky_split_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII. SMRT NA MOČÁLE.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII. SÍTĚ SE ZATAHUJÍ. • Pes baskervillský",
+      "file": "pes_baskervillsky_split_015.html",
+      "words": 2941,
+      "chars": 17931,
+      "ideas": 146,
+      "role": "chapter",
+      "order": 14,
+      "prev": "pes_baskervillsky_split_014.html",
+      "next": "pes_baskervillsky_split_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII. SÍTĚ SE ZATAHUJÍ.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV. PES BASKERVILLSKÝ. • Pes baskervillský",
+      "file": "pes_baskervillsky_split_016.html",
+      "words": 3712,
+      "chars": 22270,
+      "ideas": 181,
+      "role": "chapter",
+      "order": 15,
+      "prev": "pes_baskervillsky_split_015.html",
+      "next": "pes_baskervillsky_split_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV. PES BASKERVILLSKÝ.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV. POHLED NAZPĚT. • Pes baskervillský",
+      "file": "pes_baskervillsky_split_017.html",
+      "words": 3522,
+      "chars": 21549,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 16,
+      "prev": "pes_baskervillsky_split_016.html",
+      "next": "pes_baskervillsky_split_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV. POHLED NAZPĚT.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pes baskervillský",
+      "file": "pes_baskervillsky_split_018.html",
+      "words": 30,
+      "chars": 164,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 17,
+      "prev": "pes_baskervillsky_split_017.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 51854,
+      "chars": 312962,
+      "ideas": 2100
+    },
+    "chapters": {
+      "words": 51846,
+      "chars": 312911,
+      "ideas": 2095
+    }
+  }
+}
