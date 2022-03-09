@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-2ad2388';
+const CACHE = 'cache-baa0a8d';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./pes_baskervillsky_split_003.html","./pes_baskervillsky_split_004.html","./pes_baskervillsky_split_005.html","./pes_baskervillsky_split_006.html","./pes_baskervillsky_split_007.html","./pes_baskervillsky_split_008.html","./pes_baskervillsky_split_009.html","./pes_baskervillsky_split_010.html","./pes_baskervillsky_split_011.html","./pes_baskervillsky_split_012.html","./pes_baskervillsky_split_013.html","./pes_baskervillsky_split_014.html","./pes_baskervillsky_split_015.html","./pes_baskervillsky_split_016.html","./pes_baskervillsky_split_017.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.gif","./resources/image004.gif"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./pes_baskervillsky_split_000.html","./pes_baskervillsky_split_003.html","./pes_baskervillsky_split_004.html","./pes_baskervillsky_split_005.html","./pes_baskervillsky_split_006.html","./pes_baskervillsky_split_007.html","./pes_baskervillsky_split_008.html","./pes_baskervillsky_split_009.html","./pes_baskervillsky_split_010.html","./pes_baskervillsky_split_011.html","./pes_baskervillsky_split_012.html","./pes_baskervillsky_split_013.html","./pes_baskervillsky_split_014.html","./pes_baskervillsky_split_015.html","./pes_baskervillsky_split_016.html","./pes_baskervillsky_split_017.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.gif","./resources/image004.gif","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {

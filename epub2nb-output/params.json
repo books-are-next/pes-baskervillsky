@@ -40,7 +40,7 @@
             "filename": "pes_baskervillsky_split_000.md",
             "xhtml": "pes_baskervillsky_split_000.html",
             "id": 0,
-            "role": "cover",
+            "role": "break",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -70,8 +70,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "I. MR. SHERLOCK HOLMES."
+            "title": "I. MR. SHERLOCK HOLMES.",
+            "children": []
           },
           {
             "filename": "pes_baskervillsky_split_004.md",
@@ -83,8 +83,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "II. KLETBA BASKERVILLŮ."
+            "title": "II. KLETBA BASKERVILLŮ.",
+            "children": []
           },
           {
             "filename": "pes_baskervillsky_split_005.md",
@@ -96,8 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "III. PROBLÉM."
+            "title": "III. PROBLÉM.",
+            "children": []
           },
           {
             "filename": "pes_baskervillsky_split_006.md",
@@ -109,8 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IV. SIR JINDŘICH BASKERVILLE."
+            "title": "IV. SIR JINDŘICH BASKERVILLE.",
+            "children": []
           },
           {
             "filename": "pes_baskervillsky_split_007.md",
@@ -122,8 +122,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "V. TŘI PŘETRŽENÉ NITKY."
+            "title": "V. TŘI PŘETRŽENÉ NITKY.",
+            "children": []
           },
           {
             "filename": "pes_baskervillsky_split_008.md",
@@ -135,8 +135,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VI. NA BASKERVILLSKÉM ZÁMKU."
+            "title": "VI. NA BASKERVILLSKÉM ZÁMKU.",
+            "children": []
           },
           {
             "filename": "pes_baskervillsky_split_009.md",
@@ -148,8 +148,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VII. STAPLETONOVI Z MERRIPITSKÉHO DVORCE."
+            "title": "VII. STAPLETONOVI Z MERRIPITSKÉHO DVORCE.",
+            "children": []
           },
           {
             "filename": "pes_baskervillsky_split_010.md",
@@ -161,8 +161,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VIII. PRVNÍ ZPRÁVA DOKTORA WATSONA."
+            "title": "VIII. PRVNÍ ZPRÁVA DOKTORA WATSONA.",
+            "children": []
           },
           {
             "filename": "pes_baskervillsky_split_011.md",
@@ -174,8 +174,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IX. DRUHÁ ZPRÁVA DOKTORA WATSONA."
+            "title": "IX. DRUHÁ ZPRÁVA DOKTORA WATSONA.",
+            "children": []
           },
           {
             "filename": "pes_baskervillsky_split_012.md",
@@ -187,8 +187,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "X. VÝŇATEK Z DENNÍKU DOKTORA WATSONA."
+            "title": "X. VÝŇATEK Z DENNÍKU DOKTORA WATSONA.",
+            "children": []
           },
           {
             "filename": "pes_baskervillsky_split_013.md",
@@ -200,8 +200,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XI. MUŽ S ÚTESU SKALNÍHO."
+            "title": "XI. MUŽ S ÚTESU SKALNÍHO.",
+            "children": []
           },
           {
             "filename": "pes_baskervillsky_split_014.md",
@@ -213,8 +213,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XII. SMRT NA MOČÁLE."
+            "title": "XII. SMRT NA MOČÁLE.",
+            "children": []
           },
           {
             "filename": "pes_baskervillsky_split_015.md",
@@ -226,8 +226,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XIII. SÍTĚ SE ZATAHUJÍ."
+            "title": "XIII. SÍTĚ SE ZATAHUJÍ.",
+            "children": []
           },
           {
             "filename": "pes_baskervillsky_split_016.md",
@@ -239,8 +239,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XIV. PES BASKERVILLSKÝ."
+            "title": "XIV. PES BASKERVILLSKÝ.",
+            "children": []
           },
           {
             "filename": "pes_baskervillsky_split_017.md",
@@ -252,8 +252,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XV. POHLED NAZPĚT."
+            "title": "XV. POHLED NAZPĚT.",
+            "children": []
           },
           {
             "filename": "pes_baskervillsky_split_018.md",
@@ -278,7 +278,7 @@
       "identifier": "a1104cc5-11fb-4add-bf95-6a05626ed712",
       "author": "Arthur Conan Doyle",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-09T08:40:42.685Z"
+      "modified": "2022-03-09T08:53:29.917Z"
     },
     "chapters": [
       {
@@ -446,6 +446,6 @@
       "user": "books-are-next",
       "repo": "pes-baskervillsky"
     },
-    "generatedAt": 1646815243669
+    "generatedAt": 1646816011079
   }
 }
