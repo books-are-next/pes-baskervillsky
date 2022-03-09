@@ -14,8 +14,6 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - pes_baskervillsky_split_000.html
-  - pes_baskervillsky_split_001.html
   - pes_baskervillsky_split_003.html
   - pes_baskervillsky_split_004.html
   - pes_baskervillsky_split_005.html
@@ -31,11 +29,57 @@ readingOrder:
   - pes_baskervillsky_split_015.html
   - pes_baskervillsky_split_016.html
   - pes_baskervillsky_split_017.html
-  - pes_baskervillsky_split_018.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: pes_baskervillsky_split_003.html
+        title: I. MR. SHERLOCK HOLMES.
+        hiddenTitle: false
+      - link: pes_baskervillsky_split_004.html
+        title: II. KLETBA BASKERVILLŮ.
+        hiddenTitle: false
+      - link: pes_baskervillsky_split_005.html
+        title: III. PROBLÉM.
+        hiddenTitle: false
+      - link: pes_baskervillsky_split_006.html
+        title: IV. SIR JINDŘICH BASKERVILLE.
+        hiddenTitle: false
+      - link: pes_baskervillsky_split_007.html
+        title: V. TŘI PŘETRŽENÉ NITKY.
+        hiddenTitle: false
+      - link: pes_baskervillsky_split_008.html
+        title: VI. NA BASKERVILLSKÉM ZÁMKU.
+        hiddenTitle: false
+      - link: pes_baskervillsky_split_009.html
+        title: VII. STAPLETONOVI Z MERRIPITSKÉHO DVORCE.
+        hiddenTitle: false
+      - link: pes_baskervillsky_split_010.html
+        title: VIII. PRVNÍ ZPRÁVA DOKTORA WATSONA.
+        hiddenTitle: false
+      - link: pes_baskervillsky_split_011.html
+        title: IX. DRUHÁ ZPRÁVA DOKTORA WATSONA.
+        hiddenTitle: false
+      - link: pes_baskervillsky_split_012.html
+        title: X. VÝŇATEK Z DENNÍKU DOKTORA WATSONA.
+        hiddenTitle: false
+      - link: pes_baskervillsky_split_013.html
+        title: XI. MUŽ S ÚTESU SKALNÍHO.
+        hiddenTitle: false
+      - link: pes_baskervillsky_split_014.html
+        title: XII. SMRT NA MOČÁLE.
+        hiddenTitle: false
+      - link: pes_baskervillsky_split_015.html
+        title: XIII. SÍTĚ SE ZATAHUJÍ.
+        hiddenTitle: false
+      - link: pes_baskervillsky_split_016.html
+        title: XIV. PES BASKERVILLSKÝ.
+        hiddenTitle: false
+      - link: pes_baskervillsky_split_017.html
+        title: XV. POHLED NAZPĚT.
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
