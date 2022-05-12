@@ -14,6 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
+  - promo.html
   - pes_baskervillsky_split_000.html
   - pes_baskervillsky_split_003.html
   - pes_baskervillsky_split_004.html
