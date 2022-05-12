@@ -1,5 +1,5 @@
 ---
-title: XI. MUŽ S ÚTESU SKALNÍHO.
+title: XI\. MUŽ S ÚTESU SKALNÍHO\.
 contentType: prose
 ---
 

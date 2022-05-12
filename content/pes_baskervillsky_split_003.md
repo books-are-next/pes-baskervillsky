@@ -1,5 +1,5 @@
 ---
-title: I. MR. SHERLOCK HOLMES.
+title: I\. MR\. SHERLOCK HOLMES\.
 contentType: prose
 ---
 

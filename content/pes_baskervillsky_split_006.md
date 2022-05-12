@@ -1,5 +1,5 @@
 ---
-title: IV. SIR JINDŘICH BASKERVILLE.
+title: IV\. SIR JINDŘICH BASKERVILLE\.
 contentType: prose
 ---
 

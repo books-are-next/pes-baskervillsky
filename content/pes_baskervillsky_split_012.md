@@ -1,5 +1,5 @@
 ---
-title: X. VÝŇATEK Z DENNÍKU DOKTORA WATSONA.
+title: X\. VÝŇATEK Z DENNÍKU DOKTORA WATSONA\.
 contentType: prose
 ---
 

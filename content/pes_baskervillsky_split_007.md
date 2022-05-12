@@ -1,5 +1,5 @@
 ---
-title: V. TŘI PŘETRŽENÉ NITKY.
+title: V\. TŘI PŘETRŽENÉ NITKY\.
 contentType: prose
 ---
 
