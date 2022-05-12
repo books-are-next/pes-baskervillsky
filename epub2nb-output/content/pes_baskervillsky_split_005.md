@@ -1,5 +1,5 @@
 ---
-title: III. PROBLÉM.
+title: III\. PROBLÉM\.
 contentType: prose
 ---
 

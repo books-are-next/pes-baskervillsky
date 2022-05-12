@@ -269,16 +269,14 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
       "title": "Pes baskervillský",
       "identifier": "a1104cc5-11fb-4add-bf95-6a05626ed712",
       "author": "Arthur Conan Doyle",
-      "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-09T08:53:29.917Z"
+      "publisher": "Městská knihovna v Praze"
     },
     "chapters": [
       {
@@ -294,91 +292,91 @@
         "xhtml": "pes_baskervillsky_split_001.html"
       },
       {
-        "titleSuggest": "I. MR. SHERLOCK HOLMES.",
+        "titleSuggest": "I\\. MR\\. SHERLOCK HOLMES\\.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_003.md",
         "xhtml": "pes_baskervillsky_split_003.html"
       },
       {
-        "titleSuggest": "II. KLETBA BASKERVILLŮ.",
+        "titleSuggest": "II\\. KLETBA BASKERVILLŮ\\.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_004.md",
         "xhtml": "pes_baskervillsky_split_004.html"
       },
       {
-        "titleSuggest": "III. PROBLÉM.",
+        "titleSuggest": "III\\. PROBLÉM\\.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_005.md",
         "xhtml": "pes_baskervillsky_split_005.html"
       },
       {
-        "titleSuggest": "IV. SIR JINDŘICH BASKERVILLE.",
+        "titleSuggest": "IV\\. SIR JINDŘICH BASKERVILLE\\.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_006.md",
         "xhtml": "pes_baskervillsky_split_006.html"
       },
       {
-        "titleSuggest": "V. TŘI PŘETRŽENÉ NITKY.",
+        "titleSuggest": "V\\. TŘI PŘETRŽENÉ NITKY\\.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_007.md",
         "xhtml": "pes_baskervillsky_split_007.html"
       },
       {
-        "titleSuggest": "VI. NA BASKERVILLSKÉM ZÁMKU.",
+        "titleSuggest": "VI\\. NA BASKERVILLSKÉM ZÁMKU\\.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_008.md",
         "xhtml": "pes_baskervillsky_split_008.html"
       },
       {
-        "titleSuggest": "VII. STAPLETONOVI Z MERRIPITSKÉHO DVORCE.",
+        "titleSuggest": "VII\\. STAPLETONOVI Z MERRIPITSKÉHO DVORCE\\.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_009.md",
         "xhtml": "pes_baskervillsky_split_009.html"
       },
       {
-        "titleSuggest": "VIII. PRVNÍ ZPRÁVA DOKTORA WATSONA.",
+        "titleSuggest": "VIII\\. PRVNÍ ZPRÁVA DOKTORA WATSONA\\.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_010.md",
         "xhtml": "pes_baskervillsky_split_010.html"
       },
       {
-        "titleSuggest": "IX. DRUHÁ ZPRÁVA DOKTORA WATSONA.",
+        "titleSuggest": "IX\\. DRUHÁ ZPRÁVA DOKTORA WATSONA\\.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_011.md",
         "xhtml": "pes_baskervillsky_split_011.html"
       },
       {
-        "titleSuggest": "X. VÝŇATEK Z DENNÍKU DOKTORA WATSONA.",
+        "titleSuggest": "X\\. VÝŇATEK Z DENNÍKU DOKTORA WATSONA\\.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_012.md",
         "xhtml": "pes_baskervillsky_split_012.html"
       },
       {
-        "titleSuggest": "XI. MUŽ S ÚTESU SKALNÍHO.",
+        "titleSuggest": "XI\\. MUŽ S ÚTESU SKALNÍHO\\.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_013.md",
         "xhtml": "pes_baskervillsky_split_013.html"
       },
       {
-        "titleSuggest": "XII. SMRT NA MOČÁLE.",
+        "titleSuggest": "XII\\. SMRT NA MOČÁLE\\.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_014.md",
         "xhtml": "pes_baskervillsky_split_014.html"
       },
       {
-        "titleSuggest": "XIII. SÍTĚ SE ZATAHUJÍ.",
+        "titleSuggest": "XIII\\. SÍTĚ SE ZATAHUJÍ\\.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_015.md",
         "xhtml": "pes_baskervillsky_split_015.html"
       },
       {
-        "titleSuggest": "XIV. PES BASKERVILLSKÝ.",
+        "titleSuggest": "XIV\\. PES BASKERVILLSKÝ\\.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_016.md",
         "xhtml": "pes_baskervillsky_split_016.html"
       },
       {
-        "titleSuggest": "XV. POHLED NAZPĚT.",
+        "titleSuggest": "XV\\. POHLED NAZPĚT\\.",
         "subtitleSuggest": "",
         "filename": "pes_baskervillsky_split_017.md",
         "xhtml": "pes_baskervillsky_split_017.html"
@@ -446,6 +444,6 @@
       "user": "books-are-next",
       "repo": "pes-baskervillsky"
     },
-    "generatedAt": 1646816011079
+    "generatedAt": 1652351460022
   }
 }

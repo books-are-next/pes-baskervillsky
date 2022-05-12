@@ -1,5 +1,5 @@
 ---
-title: II. KLETBA BASKERVILLŮ.
+title: II\. KLETBA BASKERVILLŮ\.
 contentType: prose
 ---
 

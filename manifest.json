@@ -1,17 +1,37 @@
 {
-  "author": "Arthur Conan Doyle",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "doyle-pes-baskervillsky-baa0a8d",
-  "languagecode": "cs",
-  "modified": "2022-03-09T08:22:27.606Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Pes baskervillský",
-  "revision": "baa0a8d",
+  "author": "Arthur Conan Doyle",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "doyle-pes-baskervillsky-ec22fab",
+  "revision": "ec22fab",
+  "readingOrder": [
+    "pes_baskervillsky_split_000.html",
+    "pes_baskervillsky_split_003.html",
+    "pes_baskervillsky_split_004.html",
+    "pes_baskervillsky_split_005.html",
+    "pes_baskervillsky_split_006.html",
+    "pes_baskervillsky_split_007.html",
+    "pes_baskervillsky_split_008.html",
+    "pes_baskervillsky_split_009.html",
+    "pes_baskervillsky_split_010.html",
+    "pes_baskervillsky_split_011.html",
+    "pes_baskervillsky_split_012.html",
+    "pes_baskervillsky_split_013.html",
+    "pes_baskervillsky_split_014.html",
+    "pes_baskervillsky_split_015.html",
+    "pes_baskervillsky_split_016.html",
+    "pes_baskervillsky_split_017.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Wed Mar 09 2022 08:54:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1646816061204
+    "date": "Thu May 12 2022 10:39:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351972117
   },
   "documents": [
     {
@@ -35,7 +55,7 @@
       ]
     },
     {
-      "title": "I. MR. SHERLOCK HOLMES. • Pes baskervillský",
+      "title": "I. MR. SHERLOCK HOLMES.",
       "file": "pes_baskervillsky_split_003.html",
       "words": 2009,
       "chars": 12487,
@@ -55,7 +75,7 @@
       ]
     },
     {
-      "title": "II. KLETBA BASKERVILLŮ. • Pes baskervillský",
+      "title": "II. KLETBA BASKERVILLŮ.",
       "file": "pes_baskervillsky_split_004.html",
       "words": 3331,
       "chars": 20325,
@@ -75,7 +95,7 @@
       ]
     },
     {
-      "title": "III. PROBLÉM. • Pes baskervillský",
+      "title": "III. PROBLÉM.",
       "file": "pes_baskervillsky_split_005.html",
       "words": 2577,
       "chars": 15606,
@@ -95,7 +115,7 @@
       ]
     },
     {
-      "title": "IV. SIR JINDŘICH BASKERVILLE. • Pes baskervillský",
+      "title": "IV. SIR JINDŘICH BASKERVILLE.",
       "file": "pes_baskervillsky_split_006.html",
       "words": 3530,
       "chars": 21651,
@@ -115,7 +135,7 @@
       ]
     },
     {
-      "title": "V. TŘI PŘETRŽENÉ NITKY. • Pes baskervillský",
+      "title": "V. TŘI PŘETRŽENÉ NITKY.",
       "file": "pes_baskervillsky_split_007.html",
       "words": 2938,
       "chars": 17814,
@@ -135,7 +155,7 @@
       ]
     },
     {
-      "title": "VI. NA BASKERVILLSKÉM ZÁMKU. • Pes baskervillský",
+      "title": "VI. NA BASKERVILLSKÉM ZÁMKU.",
       "file": "pes_baskervillsky_split_008.html",
       "words": 2991,
       "chars": 18423,
@@ -155,7 +175,7 @@
       ]
     },
     {
-      "title": "VII. STAPLETONOVI Z MERRIPITSKÉHO DVORCE. • Pes baskervillský",
+      "title": "VII. STAPLETONOVI Z MERRIPITSKÉHO DVORCE.",
       "file": "pes_baskervillsky_split_009.html",
       "words": 4341,
       "chars": 26211,
@@ -175,7 +195,7 @@
       ]
     },
     {
-      "title": "VIII. PRVNÍ ZPRÁVA DOKTORA WATSONA. • Pes baskervillský",
+      "title": "VIII. PRVNÍ ZPRÁVA DOKTORA WATSONA.",
       "file": "pes_baskervillsky_split_010.html",
       "words": 2394,
       "chars": 14386,
@@ -195,7 +215,7 @@
       ]
     },
     {
-      "title": "IX. DRUHÁ ZPRÁVA DOKTORA WATSONA. • Pes baskervillský",
+      "title": "IX. DRUHÁ ZPRÁVA DOKTORA WATSONA.",
       "file": "pes_baskervillsky_split_011.html",
       "words": 5726,
       "chars": 33586,
@@ -215,7 +235,7 @@
       ]
     },
     {
-      "title": "X. VÝŇATEK Z DENNÍKU DOKTORA WATSONA. • Pes baskervillský",
+      "title": "X. VÝŇATEK Z DENNÍKU DOKTORA WATSONA.",
       "file": "pes_baskervillsky_split_012.html",
       "words": 3224,
       "chars": 19047,
@@ -235,7 +255,7 @@
       ]
     },
     {
-      "title": "XI. MUŽ S ÚTESU SKALNÍHO. • Pes baskervillský",
+      "title": "XI. MUŽ S ÚTESU SKALNÍHO.",
       "file": "pes_baskervillsky_split_013.html",
       "words": 4033,
       "chars": 24225,
@@ -255,7 +275,7 @@
       ]
     },
     {
-      "title": "XII. SMRT NA MOČÁLE. • Pes baskervillský",
+      "title": "XII. SMRT NA MOČÁLE.",
       "file": "pes_baskervillsky_split_014.html",
       "words": 4406,
       "chars": 26225,
@@ -275,7 +295,7 @@
       ]
     },
     {
-      "title": "XIII. SÍTĚ SE ZATAHUJÍ. • Pes baskervillský",
+      "title": "XIII. SÍTĚ SE ZATAHUJÍ.",
       "file": "pes_baskervillsky_split_015.html",
       "words": 2941,
       "chars": 17931,
@@ -295,7 +315,7 @@
       ]
     },
     {
-      "title": "XIV. PES BASKERVILLSKÝ. • Pes baskervillský",
+      "title": "XIV. PES BASKERVILLSKÝ.",
       "file": "pes_baskervillsky_split_016.html",
       "words": 3712,
       "chars": 22270,
@@ -315,7 +335,7 @@
       ]
     },
     {
-      "title": "XV. POHLED NAZPĚT. • Pes baskervillský",
+      "title": "XV. POHLED NAZPĚT.",
       "file": "pes_baskervillsky_split_017.html",
       "words": 3522,
       "chars": 21549,
@@ -335,11 +355,11 @@
       ]
     },
     {
-      "title": "Tiráž • Pes baskervillský",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 170,
-      "chars": 1180,
-      "ideas": 17,
+      "words": 144,
+      "chars": 967,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "pes_baskervillsky_split_017.html",
@@ -357,9 +377,9 @@
   ],
   "totals": {
     "all": {
-      "words": 51854,
-      "chars": 312962,
-      "ideas": 2100
+      "words": 51828,
+      "chars": 312749,
+      "ideas": 2097
     },
     "chapters": {
       "words": 51677,

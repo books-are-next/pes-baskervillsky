@@ -1,5 +1,5 @@
 ---
-title: VII. STAPLETONOVI Z MERRIPITSKÉHO DVORCE.
+title: VII\. STAPLETONOVI Z MERRIPITSKÉHO DVORCE\.
 contentType: prose
 ---
 

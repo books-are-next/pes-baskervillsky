@@ -1,5 +1,5 @@
 ---
-title: IX. DRUHÁ ZPRÁVA DOKTORA WATSONA.
+title: IX\. DRUHÁ ZPRÁVA DOKTORA WATSONA\.
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: XII. SMRT NA MOČÁLE.
+title: XII\. SMRT NA MOČÁLE\.
 contentType: prose
 ---
 

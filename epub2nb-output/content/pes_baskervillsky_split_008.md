@@ -1,5 +1,5 @@
 ---
-title: VI. NA BASKERVILLSKÉM ZÁMKU.
+title: VI\. NA BASKERVILLSKÉM ZÁMKU\.
 contentType: prose
 ---
 
