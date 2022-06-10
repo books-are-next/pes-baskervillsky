@@ -3,6 +3,8 @@ title: V\. TŘI PŘETRŽENÉ NITKY\.
 contentType: prose
 ---
 
+<section>
+
 Sherlock Holmes měl pozoruhodnou schopnost mysl svou od jednoho předmětu k druhému odvraceti. Celé dvě hodiny zvláštní afféra, do níž jsme byli nyní zapředeni, zdála se býti jím úplně zapomenuta, i oddal se zcela pozorování moderních belgických mistrů. Ano, nemluvil o ničem jiném, nežli o umění (o němž měl ostatně strašlivé pojmy), také potom ještě, když jsme opustili obrazárnu, až pak ocitli jsme se u Northumberlandského hotelu.
 
 „Sir Jindřich Baskerville jest nahoře a očekává vás,“ pravil správce hotelu. „Požádal mne, abych uvedl vás ihned k němu, jakmile přijdete.“
@@ -308,3 +310,5 @@ John Clayton odešel, zamlasknuv si radostí, a Holmes obrátil se ke mně, pokr
 „Proč?“
 
 „Proto, že vás tam posílám. Jest to ošklivá historie, Watsone, ošklivá, nebezpečná aféra, a čím více z ní poznávám, tím méně se mi líbí. Ano, můj milý hochu, vy se smějete, ale na mou věru, budu rád, uvidím-li vás opět zdravého a celého v Bakerské ulici.“
+
+</section>

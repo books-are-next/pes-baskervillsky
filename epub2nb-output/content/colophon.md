@@ -2,17 +2,13 @@
 title: Tiráž
 ---
 
+<section>  
 **Arthur Conan Doyle**  
 **Pes baskervillský**  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
+</section>  
 1. vydání z 10. 6. 2022.
-
-***
-
-Znění tohoto textu vychází z díla Pes baskervillský tak, jak bylo vydáno v nakladatelství Vilímek v roce 1905 (DOYLE, Artur Conan. _Pes baskervillský_. Z angl. přel. Josef Pachmayer ; S ilustr. S. Pageta. Praha: Vilímek, \[1905\]. 353 s. Vilímkova knihovna.).  
-
-Elektronické publikování příběhů Sherlocka Holmese je společným projektem Městské knihovny v Praze a [www.digiBooks.cz](http://www.digibooks.cz/).
 
 ***
 

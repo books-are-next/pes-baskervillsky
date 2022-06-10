@@ -3,7 +3,9 @@ title: IX\. DRUHÁ ZPRÁVA DOKTORA WATSONA\.
 contentType: prose
 ---
 
- „Na Baskervillském zámku, dne 15. října.
+<section>
+
+„Na Baskervillském zámku, dne 15. října.
 
 Milý můj Holmesi, byl-li jsem nucen nechati Vás bez valných novinek v prvních dnech svého poslání, musíte uznati, že nahrazuji nyní zplna ztracený čas a že události nyní kvapí, ano hrnou se na nás.
 
@@ -442,3 +444,5 @@ Avšak močál s tajemstvími svými a s podivnými obyvateli svými zůstává 
 Snad v příští zprávě své budu moci také na něj vrhnouti trochu světla.
 
 Nejlepší ze všeho bylo by, kdybyste mohl přijiti sem k nám.
+
+</section>

@@ -3,6 +3,8 @@ title: IV\. SIR JINDŘICH BASKERVILLE\.
 contentType: prose
 ---
 
+<section>
+
 Stůl náš po snídaní byl brzy uklizen, a Holmes čekal ve svém županu na slíbenou návštěvu. Naši klienti byli přesní podle ujednání, neboť hodiny bily právě deset, když doktor Mortimer se objevil, sledován jsa baronetem.
 
 Sir Jindřich Baskerville byl malé postavy, avšak čilých pohybů, černých zraků, a byl asi třicet let stár. Těla byl silného, nad očima klenulo se husté, černé obočí, a tvář mladého muže měla výraz síly a bojovnosti. Oděn byl v zarudlý, lehký oděv, a pleť jeho byla ožehlá jako u mužův, kteří většinu času tráví na vzduchu, a přece v jeho pevném zraku a klidném vystupování bylo cosi, co svědčilo o gentlemanu.
@@ -290,3 +292,5 @@ Holmes vešel do ústavu posluhův a poslíčků této čtvrti a byl tam správc
 „Ano, pane!“
 
 „V každém případě portýr nepochybně odkáže vás na podomka, jemuž dáte rovněž Shilling. Zde jest opět třiadvacet shillingů. Zvíte nepochybně ve dvaceti případech ze třiadvaceti, že papíry byly spáleny neb docela již odstraněny. Ve třech ostatních případech ukáží vám hromadu papírů, a vy ohlédnete se v nich po onom listu ‚Timesů‘. Jest pranepatrná ovšem čáka, že ho najdete. Zde jest deset shillingů pro nahodilé výdaje. Telegrafujte mi výsledek ještě před večerem do Bakerské ulice. A nyní, Watsone, zbývá nám již jen zjistiti telegraficky drožkáře číslo dva tisíce sedm set čtyři a potom navštívíme některou obrazárnu v Boundské ulici, abychom ukrátili si tak čas až po tu chvíli, kdy musíme býti v hotelu.“
+
+</section>

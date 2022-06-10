@@ -3,6 +3,8 @@ title: XII\. SMRT NA MOČÁLE\.
 contentType: prose
 ---
 
+<section>
+
 Okamžik neb více seděl jsem tu beze slova a bez dechu, nechtěje ani věřiti sluchu svému. Po té vrátily se mi smysly i hlas, zatím co tísnivá tíže zodpovědnosti na ráz svalila se s duše mé.
 
 Chladný, důtklivý, ironický tento hlas mohl náležeti jen jedinému člověku na světě. „Holmes!“ zvolal jsem. – „Holmes!“
@@ -398,3 +400,5 @@ Nemohl jsem nic již od něho zvěděti, a on ubíral se pohroužen v myšlenky 
 „I já jsem pozván.“
 
 „Vy musíte se omluviti. On musí tam jiti sám. To dá se snadno provésti. A nyní, přišli-li jsme pozdě k obědu, zasedneme, myslím, s tím větší chuti k večeři.“
+
+</section>

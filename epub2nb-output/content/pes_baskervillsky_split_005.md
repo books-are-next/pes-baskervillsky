@@ -3,6 +3,8 @@ title: III\. PROBLÉM\.
 contentType: prose
 ---
 
+<section>
+
 Doznávám, že při těchto slovech zamrazilo mne v těle děsem. I zvláštní přízvuk v řeči lékařově dokazoval, že také on je hluboce vzrušen tím, co sám řekl.
 
 Holmes naklonil se rozechvěn vpřed, a oči jeho měly tvrdý, suchý onen lesk, který zářil z nich vždy, když byl vzbuzen v něm hluboký zájem. „Viděl jste to opravdu?“
@@ -276,3 +278,5 @@ Rozvinul jeden list a podržel ho na svých kolenou.
 „Ale sir Karel chodil na procházku každého večera.“
 
 „Pokládám za pravděnepodobné, že byl by čekával každého večera u vrátek k močálu vedoucích. Naopak bylo dosvědčeno, že vyhýbal se močálu. V oné noci čekal tam však. Byla to noc před jeho odjezdem do Londýna. Věc nabývá určitějších tvarů, Watsone. Jeví se souvislejší. Smím vás prositi, abyste mi podal mé housle? Odložíme další úvahy o předmětu tom až do zítřka, kdy setkání s doktorem Mortimerem a se sirem Jindřichem Baskervillem poskytne nám pro ně nových opor.“
+
+</section>

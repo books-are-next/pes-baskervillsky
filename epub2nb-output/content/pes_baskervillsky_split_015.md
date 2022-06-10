@@ -3,6 +3,8 @@ title: XIII\. SÍTĚ SE ZATAHUJÍ\.
 contentType: prose
 ---
 
+<section>
+
 Sir Jindřich byl více potěšen než překvapen, když spatřil Sherlocka Holmesa, o němž po několik dní již očekával, že poslední události ho z Londýna přivolají.
 
 Podíval se však naň přec s ustrnutím, když zvěděl, že přítel nemá ani žádných zavazadel, a ani žádného vysvětlení pro jich nedostatek.
@@ -292,3 +294,5 @@ Potřásli isme si všichni tři ruce, a já poznal z uctivého způsobu, s jak�
 „Něco dobrého máte pro mne?“
 
 „Nejznamenitější případ za celou řadu let,“ pravil Holmes. „Máme dvě hodiny před sebou, dříve nežli musíme se vydati na výpravu. Myslím, že bychom jich měli použiti, abychom něco pojedli, a potom, Lestrade, vyfoukneme londýnskou mlhu z plic vašich tím, že dopřejeme vám nadýchati se čistého, nočního vzduchu Dartského močálu! Nebyl jste tam nikdy ještě? Nu, myslím, že nezapomenete na tamní první svou návštěvu.“
+
+</section>

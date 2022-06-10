@@ -3,6 +3,8 @@ title: X\. VÝŇATEK Z DENNÍKU DOKTORA WATSONA\.
 contentType: prose
 ---
 
+<section>
+
 Až potud mohl jsem prostě citovati zprávy, které jsem posílal v prvých těchto dnech Sherlocku Holmesovi. Nyní však dospěl jsem ve vyprávění svém k bodu, kdy jsem donucen zanechati této methody, i spolehnouti se opět na vzpomínky své, při čemž ovšem pomáhá mi denník, kterýž jsem si v době oné psal. Několik výňatků z něho dovede mne k oněm scénám, jež utkvěly nesmazatelně ve všech podrobnostech svých v mé paměti. Počínám tudíž ránem, kteréž následovalo po bezvýsledném lovu našem na trestance a po ostatních našich podivných zkušenostech na močálu.
 
 „Dne 16. října.
@@ -252,3 +254,5 @@ Jak vášnivá zášť musí to býti, jež přiměje člověka, aby skrýval se
 Tam, v onom kamenném stánku, zdá se býti skutečný střed problému, kterýž mně tak dlouho trapnými starostmi naplňoval!
 
 Přísahám si však, že nesmí minouti již ani den, bych neučinil všechno, co člověk může, abych pronikl k jádru tajemství.
+
+</section>

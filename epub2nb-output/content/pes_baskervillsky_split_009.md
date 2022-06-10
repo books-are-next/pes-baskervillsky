@@ -3,6 +3,8 @@ title: VII\. STAPLETONOVI Z MERRIPITSKÉHO DVORCE\.
 contentType: prose
 ---
 
+<section>
+
 Svěží krása následujícího jitra zaplašila poněkud trudné a šedé dojmy, kteréž zanechal v nás první vstup náš do Baskervillského zámku.
 
 Když sir Jindřich a já seděli jsme u snídaně, teplo sluneční proudilo dovnitř vysokými, lomenými okny, i vrhalo pestré odrazy barev znakův, kteréž do malovaných oken byly zasazeny, na stěny a podlahu.
@@ -370,3 +372,5 @@ Výraz nerozhodnosti kmitl se na chvíli tváří dámy, avšak oči její nabyl
 „Bratr můj bojí se velice, že by zámek zůstal neobýván. Neboť myslí na dobro ubohých obyvatel na močálu. Byl by velice rozmrzen, kdyby zvěděl, že jsem řekla něco, co by snad pohnulo sira Jindřicha, aby odjel. Avšak vykonala jsem nyní povinnost svou, a neřeknu ničeho více. Musím se vrátiti, sice mě on pohřeší a bude mne podezřívati, proč jsem se hleděla setkati s vámi. S Bohem!“
 
 Miss Stapletonová obrátila se a zmizela v několika minutách mezi balvany po pláni rozmetenými, kdežto já, duši maje naplněnu nejasnými obavami, pokračoval v cestě své k Baskervillskému zámku.
+
+</section>

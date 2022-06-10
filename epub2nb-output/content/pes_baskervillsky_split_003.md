@@ -3,6 +3,8 @@ title: I\. MR\. SHERLOCK HOLMES\.
 contentType: prose
 ---
 
+<section>
+
 Mr. Sherlock Holmes, který obyčejně ráno pozdě vstával mimo ony nikoliv řídké příležitosti, kdy probděl celou noc, seděl právě u stolu, na němž se snídávalo. Já stál na koberci před krbem, i vzal jsem do ruky hůl, kterouž jakýsi návštěvník večer před tím u nás zanechal. Byla to pěkná hůl ze silného dřeva, bambulovitě nahoře zakončená – hůl z druhů těch, jimž se říká „policejní právo“. Těsně pod hlavicí hole byl stříbrný kroužek asi na palec zšíří. Slova „Jakubu Mortimeru M. R. P. P. věnováno od jeho přátel z C. C. H.“ byla vyryta na kroužku tom, a kromě nich i datum „1884“. Hůl byla podobná oněm, jakéž staromódní domácí lékaři nosívali – důstojná, pevná a vzbuzovala pocit bezpečnosti.
 
 „Nuže, Watsone, co chcete počíti s tím?“
@@ -152,3 +154,5 @@ Holmes mlčel, však jeho pohledy pronikavé, ač rychle míjivé, prozrazovaly 
 „Mluvil jsem, pane, o přesně vědeckém základu. Avšak uznává se všude, že co do praktického řešení záležitostí tohoto druhu jste jediný ve svém oboru. Doufám, pane, že jsem snad bezděčně– – –“
 
 „Ó, to málo znamená,“ pravil Holmes. „Myslím však, doktore Mortimere, že učiníte dobře, když bez dalších oklik laskavě mně jasně povíte, jakého rázu jest problém, k jehož řešení dožadujete se mé pomoci.“
+
+</section>
