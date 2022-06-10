@@ -3,6 +3,8 @@ title: II\. KLETBA BASKERVILLŮ\.
 contentType: prose
 ---
 
+<section>
+
 „Mám v kapse rukopis,“ pravil doktor Jakub Mortimer.
 
 „Pozoroval jsem to, když jste vstoupil do komnaty,“ pravil Holmes. „Jest to starobylý rukopis. S počátku osmnáctého století, ač-li neběží o padělek.“
@@ -134,3 +136,5 @@ Pozoroval jsem je však za to já – v malé vzdálenosti od místa onoho, ale 
 Doktor Mortimer podíval se na nás na okamžik výrazem zvláštním a hlas jeho stlumil se až k šepotu, když odtušil:
 
 „Pane Holmesi, byly to stopy obrovského psa!“
+
+</section>

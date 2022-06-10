@@ -3,6 +3,8 @@ title: XV\. POHLED NAZPĚT\.
 contentType: prose
 ---
 
+<section>
+
 Nadešel konec listopadu, a Holmes i já seděli jsme za deštivého a mlhavého večera každý po jedné straně plápolajícího ohně v našem salonku v Bakerské ulici.
 
 Od tragického zakončení naší návštěvy v Devonském hrabství Holmes zapředen byl do dvou affér, nesmírně důležitých; v první z nich musil zjistiti tajemné chování se plukovníka Upwooda v souvislosti s pověstným skandálem karbanickým v klubu Nonpareille, kdežto v afféře druhé musil sprostiti nešťastnou paní Montpensierovou podezření z vraždy, kteréž uvaleno bylo na ni domnělou smrtí nevlastní dcery její, slečny Carrierovy, mladé to dámy, kteráž vypátrána byla šest měsíců později, jak se pamatujete, živá a provdaná v New Yorku.
@@ -164,3 +166,5 @@ Dle toho, co o něm víme, nemůžeme o něm pochybovati, že by byl nalezl něj
 A nyní, můj milý Watsone, myslím, když po několik týdnů měli jsme tak tuhou práci, že pro jeden večer můžeme myšlénky své věnovati předmětům zábavnějším. Koupil jsem loži na „Hugenotty“. Slyšel jste již de Reszkese? Nebylo by vám nemilo, abyste se v půlhodince přistrojil?
 
 „Mohli bychom se cestou u Marcinia zastaviti ještě na malou večeři!“
+
+</section>

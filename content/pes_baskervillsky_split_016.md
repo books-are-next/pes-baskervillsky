@@ -3,6 +3,8 @@ title: XIV\. PES BASKERVILLSKÝ\.
 contentType: prose
 ---
 
+<section>
+
 Jedna z chyb Sherlocka Holmese, ač-li bylo lze to chybou nazvati, byla, že velice nerad sděloval celé své plány jiným osobám, dokud nenadešel sám okamžik k provedení jich.
 
 Částečně vyplývalo to z jeho povahy velitelské, kteráž ráda ovládala a překvapovala ty, kteří kolem něho byli, částečně plynulo to však také z opatrnosti jeho povolání, jež mu ukládala nevydávati nic na zdařbůh v šanc.
@@ -362,3 +364,5 @@ Odtud ozýval se ryk a vytí, kteréž ani za dne nebylo příjemko slyšeti. P�
 „Tato látka v kovové krabici byla nepochybně směsí onou, kterou byl pes natřen. K tomu pohnula Stapletona nepochybně rodinná legenda o pekelném psu, a snaha jeho, dohniti sira Jindřicha strachy až ve smrt. Jaký div, že nebožák trestanec tolik utíkal a křičel právě tak, jako přítel náš a jako i my byli bychom učinili – že utíkal a zoufale křičel, když spatřil takového netvora, jak temnotou močálu vyrazil za stopou jeho.“
 
 „Byl to ďábelský plán, neboť, nehledě k tomu, že poskytoval skutečně čáky uštvali oběť svou až k smrti, sotva který venkovan byl by si troufal zkoumati tuze z blízka takového tvora, kdyby ho byl, jak se skutečně některým podařilo, i na močálu spatřil! Řekl jsem vám již v Londýně, Watsone, a pravím vám opětně, že nikdy nepomáhal jsem k polapení muže nebezpečnějšího, než jakým byl muž, kterýž spočívá tam dole;“ – i ukázal rukou svou k nesmírným pruhům bahna, posetého zelenými ostrůvky, jež rozkládalo se v šíř a dál, ztrácejíc se na konec mezi červenavými svahy bařiny.
+
+</section>
