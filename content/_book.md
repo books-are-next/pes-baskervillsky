@@ -13,6 +13,7 @@ meta:
   modified: '2022-03-09T08:22:27.606Z'
   edition: beletrie
   publisherShort: mkp
+  isbn: 978-80-274-2492-4
 readingOrder:
   - promo.html
   - pes_baskervillsky_split_000.html
