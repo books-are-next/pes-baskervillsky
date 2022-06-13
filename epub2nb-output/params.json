@@ -9,7 +9,8 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-03-09T08:22:27.606Z",
       "edition": "beletrie",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "isbn": "978-80-274-2492-4"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\ne-booknadpis",
@@ -444,6 +445,6 @@
       "user": "books-are-next",
       "repo": "pes-baskervillsky"
     },
-    "generatedAt": 1654948704840
+    "generatedAt": 1655155792867
   }
 }
