@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "doyle-pes-baskervillsky-a708b92",
-  "revision": "a708b92",
+  "identifier": "doyle-pes-baskervillsky-7979a15",
+  "revision": "7979a15",
   "readingOrder": [
     "promo.html",
     "pes_baskervillsky_split_000.html",
@@ -31,8 +31,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 22:01:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157693944
+    "date": "Tue Jun 14 2022 23:32:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655249561822
   },
   "documents": [
     {
@@ -370,9 +370,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 144,
-      "chars": 967,
-      "ideas": 14,
+      "words": 176,
+      "chars": 1226,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "pes_baskervillsky_split_017.html",
@@ -390,9 +390,9 @@
   ],
   "totals": {
     "all": {
-      "words": 51828,
-      "chars": 312749,
-      "ideas": 2097
+      "words": 51860,
+      "chars": 313008,
+      "ideas": 2099
     },
     "chapters": {
       "words": 51677,
