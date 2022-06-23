@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "doyle-pes-baskervillsky-7979a15",
-  "revision": "7979a15",
+  "identifier": "doyle-pes-baskervillsky-b9ebc86",
+  "revision": "b9ebc86",
   "readingOrder": [
     "promo.html",
     "pes_baskervillsky_split_000.html",
@@ -31,8 +31,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:57:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272624644
+    "date": "Thu Jun 23 2022 10:19:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655979591864
   },
   "documents": [
     {
