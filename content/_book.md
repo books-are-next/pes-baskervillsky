@@ -32,7 +32,7 @@ readingOrder:
   - pes_baskervillsky_split_015.html
   - pes_baskervillsky_split_016.html
   - pes_baskervillsky_split_017.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
