@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "doyle-pes-baskervillsky-b9ebc86",
-  "revision": "b9ebc86",
+  "identifier": "doyle-pes-baskervillsky-3206beb",
+  "revision": "3206beb",
   "readingOrder": [
     "promo.html",
     "pes_baskervillsky_split_000.html",
@@ -28,11 +28,11 @@
     "pes_baskervillsky_split_015.html",
     "pes_baskervillsky_split_016.html",
     "pes_baskervillsky_split_017.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:19:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979591864
+    "date": "Thu Jul 07 2022 08:35:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182956859
   },
   "documents": [
     {
@@ -181,7 +181,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "VI. NA BASKERVILLSKÉM ZÁMKU.",
+          "name": "VI. NA BASKERVILLSKÉM ZÁMKU.",
           "id": null,
           "children": []
         }
@@ -201,7 +201,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "VII. STAPLETONOVI Z MERRIPITSKÉHO DVORCE.",
+          "name": "VII. STAPLETONOVI Z MERRIPITSKÉHO DVORCE.",
           "id": null,
           "children": []
         }
@@ -261,7 +261,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "X. VÝŇATEK Z DENNÍKU DOKTORA WATSONA.",
+          "name": "X. VÝŇATEK Z DENNÍKU DOKTORA WATSONA.",
           "id": null,
           "children": []
         }
@@ -281,7 +281,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XI. MUŽ S ÚTESU SKALNÍHO.",
+          "name": "XI. MUŽ S ÚTESU SKALNÍHO.",
           "id": null,
           "children": []
         }
@@ -301,7 +301,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XII. SMRT NA MOČÁLE.",
+          "name": "XII. SMRT NA MOČÁLE.",
           "id": null,
           "children": []
         }
@@ -321,7 +321,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XIII. SÍTĚ SE ZATAHUJÍ.",
+          "name": "XIII. SÍTĚ SE ZATAHUJÍ.",
           "id": null,
           "children": []
         }
@@ -356,7 +356,7 @@
       "role": "chapter",
       "order": 16,
       "prev": "pes_baskervillsky_split_016.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -369,11 +369,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 176,
-      "chars": 1226,
+      "chars": 1223,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "pes_baskervillsky_split_017.html",
       "next": null,
@@ -391,7 +391,7 @@
   "totals": {
     "all": {
       "words": 51860,
-      "chars": 313008,
+      "chars": 313005,
       "ideas": 2099
     },
     "chapters": {
