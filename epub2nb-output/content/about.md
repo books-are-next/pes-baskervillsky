@@ -7,7 +7,7 @@ title: Tiráž
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
 ISBN 978-80-274-2492-4 (webová kniha)  
-V MKP 2. elektronické vydání z 21. 7. 2022.
+V MKP 2. elektronické vydání z 29. 9. 2022.
 
 ***
 
@@ -26,7 +26,7 @@ Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v P
 
 Citační záznam této e-knihy:
 
-DOYLE, Arthur Conan. _Pes baskervillský_ \[online\]. Přel. J. Pachmayer. V MKP 2. elektronické vydání z 21. 7. 2022. Praha : Městská knihovna v Praze, 2012 \[cit. 21. 7. 2022]. Dostupné z <[books-are-next.github.io/pes-baskervillsky](https://books-are-next.github.io/pes-baskervillsky/)>.
+DOYLE, Arthur Conan. _Pes baskervillský_ \[online\]. Přel. J. Pachmayer. V MKP 2. elektronické vydání z 29. 9. 2022. Praha : Městská knihovna v Praze, 2012 \[cit. 29. 9. 2022]. Dostupné z <[books-are-next.github.io/pes-baskervillsky](https://books-are-next.github.io/pes-baskervillsky/)>.
 
 ***
 
